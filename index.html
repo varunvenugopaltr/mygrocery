@@ -12,18 +12,11 @@
           
         }
         </style> -->
-        <!-- <style>
-          
-          
-          .center {
-            margin: 0;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            -ms-transform: translate(-50%, -50%);
-            transform: translate(-50%, -50%);
+        <style>
+          body {
+            background-color:rgba(179, 174, 167, 0.315);
           }
-          </style> -->
+          </style>
 </head>
 <body>
     <div id="datatable">
@@ -32,19 +25,20 @@
         <div class="row-lg">
          <img id="pic" class="img-fluid" src="./supermarketcart_main.jpeg" alt="grocery" class="responsive" style=" align-self: center; margin-right: auto;margin-left: auto;display: block;">
         </div>
-       <table class="table center table-bordered " style="width: 80vw; height: 80vh; padding: 20px;margin: 20px; align-self: baseline; margin-left: auto;margin-right: auto; text-align: center;">
+       <table class="table center table-bordered " >
          <thead id="thead">
 
          </thead>
          <tbody id="body">
-
+          
          </tbody>
-
+          
        </table>
+       <button id="btn2"onclick="window.print()" style="margin-right: auto;margin-left: auto;display: block;">Print List</button>
 </div>
 <script src="ajaxdata.js"></script>
   <!-- <div class="center"> -->
-<button id="btn2"onclick="window.print()">Print List</button>
+<!-- <button id="btn2"onclick="window.print()">Print List</button> -->
 <!-- </div> -->
 </body>
 </html>
