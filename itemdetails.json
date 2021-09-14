@@ -47,6 +47,38 @@
         "unit":"Kilograms",
         "dept":"Fresh Fruits",
         "note":"Apple Royal Gala"
+    },
+    {
+        "slno":"07",    
+        "name":"Colgate Maxfresh Blue Saverpack Toothpaste 300 g",
+        "qty":"01",
+        "unit":"Box",
+        "dept":"Toothpaste",
+        "note":"Colgate Maxfresh Blue Saverpack Toothpaste 300 g"
+    },
+    {
+        "slno":"08",    
+        "name":"Red Label Leaf Tea 500 g (Carton)",
+        "qty":"01",
+        "unit":"Carton",
+        "dept":"Beverages",
+        "note":"Red Label Leaf Tea 500 g (Carton)"
+    },
+    {
+        "slno":"09",    
+        "name":"Amul Plain Cheese Slices 200 g (Pack)",
+        "qty":"02",
+        "unit":"Box",
+        "dept":"Dairy",
+        "note":"Amul Plain Cheese Slices 200 g (Pack)"
+    },
+    {
+        "slno":"10",    
+        "name":"Good Life Big Crystal Diamond Sugar",
+        "qty":"500",
+        "unit":"Grams",
+        "dept":"Sugar",
+        "note":"Good Life Big Crystal Diamond Sugar"
     }
 ]
 }

@@ -1,5 +1,6 @@
 var btn = document.getElementById("btn")
 var pic = document.getElementById("pic")
+var btn2 = document.getElementById("btn2")
 
 
 
