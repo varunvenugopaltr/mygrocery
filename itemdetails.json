@@ -1,0 +1,52 @@
+{ 
+    "items": [
+    {
+        "slno": "01",    
+        "name": "Milk",
+        "qty": "01",
+        "unit": "Litres",
+        "dept": "Dairy",
+        "note": "Milma Milk 1 Litre (Pouch)"
+    },
+    {
+        "slno":"02",    
+        "name":"Butter",
+        "qty":"02",
+        "unit":"Grams",
+        "dept":"Dairy",
+        "note":"Amul White Butter 500 g (Pack)"
+    },
+    {
+        "slno":"03",    
+        "name":"Atta",
+        "qty":"01",
+        "unit":"Kilograms",
+        "dept":"Atta",
+        "note":"Elite Whole Wheat Atta / Flour 1 kg"
+    },
+    {
+        "slno":"04",    
+        "name":"Good Day Cashew Cookies",
+        "qty":"01",
+        "unit":"Packet",
+        "dept":"Biscuit/Snacks",
+        "note":"Good Day Cashew Cookies 200gm"
+    },
+    {
+        "slno":"05",    
+        "name":"Syska B22 White LED Bulb 7 W",
+        "qty":"04",
+        "unit":"Box",
+        "dept":"Electrical",
+        "note":"Syska B22 White LED Bulb 7 W"
+    },    
+    {
+        "slno":"06",    
+        "name":"Apple Royal Gala",
+        "qty":"05",
+        "unit":"Kilograms",
+        "dept":"Fresh Fruits",
+        "note":"Apple Royal Gala"
+    }
+]
+}
